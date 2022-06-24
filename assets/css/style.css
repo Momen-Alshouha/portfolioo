@@ -296,10 +296,13 @@ h1, h2, h3, h4, h5, h6 {
     text-align: center;
   }
   #hero h1 {
+    
+    background-color: white;
     font-size: 32px;
     line-height: 36px;
   }
   #hero p {
+    margin-bottom: 600px;
     margin-top: 10px;
     font-size: 20px;
     line-height: 24px;
