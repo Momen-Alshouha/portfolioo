@@ -887,6 +887,11 @@ section {
   font-size: 14px;
   color: #728394;
 }
+.contact .info a {
+  margin-bottom: 0;
+  font-size: 14px;
+  color: #728394;
+}
 .contact .info .email, .contact .info .phone {
   margin-top: 40px;
 }
