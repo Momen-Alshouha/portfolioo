@@ -346,6 +346,7 @@ section {
   margin-top: 20px;
   margin-bottom: 20px;
   color: #45505b;
+  text-transform: uppercase;
 }
 .resume .resume-item {
   padding: 0 0 20px 20px;
@@ -591,7 +592,8 @@ section {
   padding: 70px 20px 80px 20px;
   transition: all ease-in-out 0.3s;
   background: #fff;
-  box-shadow: 0px 5px 90px 0px rgba(110, 123, 131, 0.05);
+  box-shadow: 0px 0 8px 0 rgba(0, 0, 0, 0.08);
+  
 }
 .services .icon-box .icon {
   margin: 0 auto;
@@ -633,7 +635,8 @@ section {
 }
 .services .icon-box:hover {
   border-color: #fff;
-  box-shadow: 0px 0 35px 0 rgba(0, 0, 0, 0.08);
+
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 3px 5px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
 }
 .services .iconbox-blue i {
   color: #47aeff;
