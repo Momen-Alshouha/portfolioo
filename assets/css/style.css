@@ -73,6 +73,7 @@ h1, h2, h3, h4, h5, h6 {
     background: #fff;
     border-right: 1px solid #e6e9ec;
     left: -300px;
+    background: none;
   }
 
   
@@ -194,6 +195,7 @@ h1, h2, h3, h4, h5, h6 {
 @media (min-width: 992px) {
   #hero {
     padding-left: 160px;
+    background: none !important;
   }
 }
 #hero:before {
@@ -239,6 +241,7 @@ h1, h2, h3, h4, h5, h6 {
 @media (max-width: 992px) {
   #hero {
     text-align: center;
+    background: none;
   }
   #hero h1 {
     
@@ -246,12 +249,7 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 32px;
     line-height: 36px;
   }
-  #hero p {
-    margin-bottom: 580px;
-    margin-top: 10px;
-    font-size: 20px;
-    line-height: 24px;
-  }
+  
 
  
 
